@@ -1,0 +1,60 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>apple.png</file>
+        <file>dot.png</file>
+        <file>head.png</file>
+        <file>bg.jpg</file>
+        <file>pause.ico</file>
+        <file>play.ico</file>
+        <file>temp2.jpeg</file>
+        <file>block_orange.png</file>
+        <file>Splash.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>alerts/applause6.mp3</file>
+        <file>alerts/applause6.wav</file>
+        <file>alerts/bark.ogg</file>
+        <file>alerts/boo3.mp3</file>
+        <file>alerts/boo3.wav</file>
+        <file>alerts/cheer_8k.mp3</file>
+        <file>alerts/cheer_8k.wav</file>
+        <file>alerts/drip.ogg</file>
+        <file>alerts/glass.ogg</file>
+        <file>alerts/rattlesnake4.mp3</file>
+        <file>alerts/rattlesnake4.wav</file>
+        <file>alerts/rattlesnake6.mp3</file>
+        <file>alerts/rattlesnake6.wav</file>
+        <file>alerts/rattlesnakerattle.mp3</file>
+        <file>alerts/rattlesnakerattle.wav</file>
+        <file>alerts/snakeatt.wav</file>
+        <file>alerts/sonar.ogg</file>
+        <file>alerts/yellau.mp3</file>
+        <file>alerts/yellau.wav</file>
+    </qresource>
+    <qresource prefix="/backgrounds">
+        <file>grass3.jpg</file>
+        <file>SnakeSkin.jpg</file>
+        <file>HomeWallpaper.jpg</file>
+    </qresource>
+    <qresource prefix="/iconpack">
+        <file>Apple.png</file>
+        <file>BackGround.png</file>
+        <file>GhostBody.png</file>
+        <file>SnakeBody.png</file>
+        <file>SnakeHead.png</file>
+    </qresource>
+    <qresource prefix="/buttons">
+        <file>Start.png</file>
+        <file>Help.png</file>
+        <file>HighScore.png</file>
+        <file>Options.png</file>
+        <file>Quit.png</file>
+        <file>Back.png</file>
+        <file>Home.png</file>
+        <file>Resume.png</file>
+        <file>buttons/Start.png</file>
+        <file>buttons/HighScore.png</file>
+        <file>Restart.png</file>
+        <file>buttons/Back2.png</file>
+    </qresource>
+</RCC>
